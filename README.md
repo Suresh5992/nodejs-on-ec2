@@ -1,6 +1,6 @@
 # Node public repo Hello World subscribe to my channel , thanks you
 
-Simple node.js app that servers  "Welcome to CLOUD ASEEM  & Credit with Thanks to - A Monk in Cloud"
+Simple node.js app that servers  "Welcome to suresh  & Credit with Thanks to - suresh"
 
 Great for testing simple deployments on Cloud
 
